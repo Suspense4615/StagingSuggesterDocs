@@ -1,56 +1,60 @@
-[Suggester Docs](NAME_OF_LANG/)
-[Getting started](NAME_OF_LANG/getting-started.md)
+[Suggester Docs](nl/)
+[Getting started](nl/getting-started.md)
 
 ---
 
 **PUBLIC COMMANDS**
-[Suggest](NAME_OF_LANG/all/suggest.md)
-[Help](NAME_OF_LANG/all/help.md)
-[Ping](NAME_OF_LANG/all/ping.md)
-[Support](NAME_OF_LANG/all/support.md)
-[Invite](NAME_OF_LANG/all/invite.md)
-[Stats](NAME_OF_LANG/all/stats.md)
-[Vote](NAME_OF_LANG/all/vote.md)
-[Verify](NAME_OF_LANG/all/verify.md)
-[Notify](NAME_OF_LANG/all/notify.md)
-[Changelog](NAME_OF_LANG/all/changelog.md)
+[Suggest](nl/all/suggest.md)
+[Help](nl/all/help.md)
+[Ping](nl/all/ping.md)
+[Support](nl/all/support.md)
+[Invite](nl/all/invite.md)
+[Stats](nl/all/stats.md)
+[Vote](nl/all/vote.md)
+[Verify](nl/all/verify.md)
+[Notify](nl/all/notify.md)
+[Changelog](nl/all/changelog.md)
 
 ---
 
 **STAFF COMMANDS**
-[Approve](NAME_OF_LANG/staff/approve.md)
-[Deny](NAME_OF_LANG/staff/deny.md)
-[Silentdeny](NAME_OF_LANG/staff/silentdeny.md)
-[Delete](NAME_OF_LANG/staff/delete.md)
-[Massapprove](NAME_OF_LANG/staff/massapprove.md)
-[Massdeny](NAME_OF_LANG/staff/massdeny.md)
-[Massdelete](NAME_OF_LANG/staff/massdelete.md)
-[Listqueue](NAME_OF_LANG/staff/listqueue.md)
-[Info](NAME_OF_LANG/staff/info.md)
-[Mark](NAME_OF_LANG/staff/mark.md)
-[Attach](NAME_OF_LANG/staff/attach.md)
-[Removeattachment](NAME_OF_LANG/staff/removeattachment.md)
-[Comment](NAME_OF_LANG/staff/comment.md)
-[Acomment](NAME_OF_LANG/staff/acomment.md)
-[Deletecomment](NAME_OF_LANG/staff/deletecomment.md)
-[Blacklist](NAME_OF_LANG/staff/blacklist.md)
-[Unblacklist](NAME_OF_LANG/staff/unblacklist.md)
+[Approve](nl/staff/approve.md)
+[Deny](nl/staff/deny.md)
+[Silentdeny](nl/staff/silentdeny.md)
+[Delete](nl/staff/delete.md)
+[Massapprove](nl/staff/massapprove.md)
+[Massdeny](nl/staff/massdeny.md)
+[Massdelete](nl/staff/massdelete.md)
+[Listqueue](nl/staff/listqueue.md)
+[Info](nl/staff/info.md)
+[Mark](nl/staff/mark.md)
+[Attach](nl/staff/attach.md)
+[Removeattachment](nl/staff/removeattachment.md)
+[Comment](nl/staff/comment.md)
+[Acomment](nl/staff/acomment.md)
+[Deletecomment](nl/staff/deletecomment.md)
+[Blacklist](nl/staff/blacklist.md)
+[Unblacklist](nl/staff/unblacklist.md)
 
 ---
 
 **ADMIN COMMANDS**
-[Autosetup](NAME_OF_LANG/admin/autosetup.md)
-[Setup](NAME_OF_LANG/admin/setup.md)
-[Config](NAME_OF_LANG/admin/config.md)
+[Autosetup](nl/admin/autosetup.md)
+[Setup](nl/admin/setup.md)
+[Config](nl/admin/config.md)
 
 ---
 
 **SUPPORTING THE BOT**
-[Info](NAME_OF_LANG/supporting/info.md)
+[Info](nl/supporting/info.md)
 
 ---
 
 **FURTHER RESOURCES**
-[Support Server](https://discord.gg/G5pEdUp)
-[Invite the Bot!](https://discordapp.com/oauth2/authorize?client_id=564426594144354315&scope=bot&permissions=805694544)
-[Translating the docs](NAME_OF_LANG/translation.md)
+[Useful Links](nl/usefullinks.md)
+[Translating the docs](nl/translation.md)
+
+---
+
+**STATS**
+[Stats on suggester](nl/all/botstats.md)
