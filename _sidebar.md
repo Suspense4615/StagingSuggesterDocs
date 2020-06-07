@@ -51,10 +51,7 @@
 ---
 
 **OTROS RECURSOS**
-[Useful Links](es/usefullinks.md)
-[Traducción de la Documentación](es/translation.md)
+[Enlaces Útiles](es/usefullinks.md)
+[Traducciones](es/translation.md)
+[Estadísticas de Suggester](es/botstats.md)
 
----
-
-**STATS**
-[Stats on Suggester](es/botstats.md)
