@@ -6,7 +6,7 @@ Empêche un utilisateur d'utiliser le bot sur le serveur
 `user` - L'utilisateur que vous souhaitez bloquer
 ### Utilisation
 ```
-.block [user]
+.block <user>
 ```
 ### Aliases
 `disallow`
