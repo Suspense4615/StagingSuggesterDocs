@@ -33,8 +33,8 @@
 [Comment](fr/staff/comment.md)
 [Acomment](fr/staff/acomment.md)
 [Deletecomment](fr/staff/deletecomment.md)
-[Blacklist](fr/staff/blacklist.md)
-[Unblacklist](fr/staff/unblacklist.md)
+[Block](fr/staff/block.md)
+[Unblock](fr/staff/unblock.md)
 
 ---
 
@@ -52,5 +52,5 @@
 
 **AUTRES RESSOURCES**
 [Liens Utiles](fr/usefullinks.md)
-[Statistiques de Suggester](fr/botstats.md)
+[Statistiques](fr/botstats.md)
 [Traductions](NAME_OF_LANG/translation.md)
