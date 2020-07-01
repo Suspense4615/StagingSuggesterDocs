@@ -37,8 +37,8 @@
 [Comment](NAME_OF_LANG/staff/comment.md)
 [Acomment](NAME_OF_LANG/staff/acomment.md)
 [Deletecomment](NAME_OF_LANG/staff/deletecomment.md)
-[Blacklist](NAME_OF_LANG/staff/blacklist.md)
-[Unblacklist](NAME_OF_LANG/staff/unblacklist.md)
+[Blacklist](NAME_OF_LANG/staff/block.md)
+[Unblacklist](NAME_OF_LANG/staff/unblock.md)
 
 ---
 
