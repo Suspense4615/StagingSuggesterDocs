@@ -10,7 +10,7 @@ Les statistiques, c'est plutôt cool! Mais c'est juste des nombres.. donc on a a
 ---
 <iframe style="background: #21313C;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-suggesterproduction-vredm/embed/charts?id=bb78f08b-1b7c-4da5-8cb0-db79007592a5&theme=dark"></iframe>
 
-#### **Commandes*
+#### **Commandes**
 ---
 # 👀
 
