@@ -1,15 +1,15 @@
 # Config
 
 ### Description
-Cette commande est utilisée pour définir divers paramètres sans recommencer l'installation complète.
+Configure les paramètres du bot
 
 ### Arguments Facultatifs
-`list` - Cet argument est utilisé pour afficher la configuration actuelle.
+`list` - Affiche la configuration actuelle.
 
-`element` - Si ceci est utilisé sans autre argument, cela affichera les paramètres actuels pour l'élément spécifié.
+`élément` - Si la commande est utilisée sans autre argument, cela affichera les paramètres actuels pour l'élément spécifié.
 
 
-*Pour la configuration*
+
 
 <!-- tabs:start -->
 #### **Rôles Admins**
@@ -18,7 +18,7 @@ Cette commande est utilisée pour définir divers paramètres sans recommencer l
 ### `admin`
 ## Utilité
 
-**Quiconque ayant un de ces rôles dispose des permissions staff, mais a également la possibilité de modifier la configuration du serveur.**
+**Toute personne ayant un de ces rôles dispose des permissions Staff, mais a également la possibilité de modifier la configuration du serveur.**
 
 ## Entrées Valides
 
@@ -35,7 +35,7 @@ Cette commande est utilisée pour définir divers paramètres sans recommencer l
 ### `staff`
 ## Utilité
 
-**Quiconque ayant un de ces rôles dispose de la permission d'approuver et de refuser des suggestions, ainsi qu'intéragir avec ces dernières par d'autres moyens.**
+**Toute personne ayant un de ces rôles dispose de la permission d'approuver et de refuser des suggestions, ainsi qu'intéragir avec ces dernières par d'autres moyens.**
 
 ## Entrées Valides
 
@@ -71,9 +71,9 @@ Cette commande est utilisée pour définir divers paramètres sans recommencer l
 ### `approvedrole`
 ## Utilité
 
-**Quand la suggestion d'un membre est approuvée, son auteur(e) recevra ce rôle.**
+**Lorsqu'une suggestion est approuvée, son auteur(e) recevra ce rôle.**
 
-**Utiliser** `none` **comme rôle retirera l'ancien si il y en a un défini.**
+**Utiliser** `none` **comme rôle retirera l'ancien si défini.**
 
 ## Entrées Valides
 
@@ -117,14 +117,14 @@ Cette commande est utilisée pour définir divers paramètres sans recommencer l
 
 `config suggestions [channel]`
 
-#### ** Channel des Suggestions Refusées**
+#### **Channel des Suggestions Refusées**
 
 ## Élément de configuration
 
 ### `denied`
 ## Utilité
 
-**Le channel où sont postées les suggestions refusées/supprimées.**
+**Le channel où sont postées les suggestions refusées et supprimées.**
 
 **Utiliser** `none` ** comme channel retirera l'ancien si il y en a un défini.**
 
@@ -214,7 +214,7 @@ Cette commande est utilisée pour définir divers paramètres sans recommencer l
 
 ## Utilisation
 
-`config emojis [upvote/shrug/downvote/toggle/enable/disable] [emoji/disable]`
+`config emojis [upvote|shrug|downvote|toggle|enable|disable] [emoji|disable]`
 
 #### **Paramètres de Notifications**
 
@@ -233,7 +233,7 @@ Cette commande est utilisée pour définir divers paramètres sans recommencer l
 
 ## Utilisation
 
-`config notify [enable/disable/toggle]`
+`config notify [enable|disable|toggle]`
 
 #### **Mode de Suggestion**
 
@@ -254,7 +254,7 @@ Cette commande est utilisée pour définir divers paramètres sans recommencer l
 
 ## Utilisation
 
-`config mode [review/autoapprove]`
+`config mode [review|autoapprove]`
 
 #### **Nettoyage Automatique des Commandes de Suggestion**
 
@@ -285,7 +285,7 @@ Cette commande est utilisée pour définir divers paramètres sans recommencer l
 
 **Le préfixe avec lequel toutes les commandes commencent.**
 
-**Exemple: dans** `.commande` **le préfixe est** `.`
+**Exemple: dans** `/test` **le préfixe est** `/`
 
 ## Entrées Valides
 
@@ -300,7 +300,7 @@ Cette commande est utilisée pour définir divers paramètres sans recommencer l
 
 ### Utilisation
 ```
-.config (élément) (paramètres)
+.config <élément> [paramètres]
 ```
 ### Aliases
 `serverconfig`, `cfg`, `configure`
