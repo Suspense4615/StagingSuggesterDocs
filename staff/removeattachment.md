@@ -1,12 +1,12 @@
 # Removeattachment
 ---
 ### Description
-Cette commande permet de retirer la pièce jointe d'une suggestion.
+Retire l'image attachée à une suggestion
 ### Argument Requis
-`ID de suggestion` - L’ID de la suggestion dont vous souhaitez retirer la pièce jointe.
+`ID de suggestion` - L’ID de la suggestion dont vous souhaitez retirer l'image
 ### Utilisation
 ```
-.removeattachment [ID de suggestion]
+.removeattachment <ID de suggestion>
 ```
 ### Aliases
 `rmattachment`, `rmattach`, `delattachment`, `deleteattachment`
