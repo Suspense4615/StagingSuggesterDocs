@@ -1,7 +1,7 @@
 # Acomment
 ---
 ### Description
-Cette commande permet aux membres du staff de commenter de manière anonyme sur une suggestion. Le commentaire sera affiché sur l'embed de la suggestion.
+Ajoute un commentaire anonyme sur une suggestion
 ### Arguments Requis
 `ID de suggestion` - L'ID de la suggestion sur laquelle vous souhaitez commenter.
 
@@ -10,11 +10,11 @@ Cette commande permet aux membres du staff de commenter de manière anonyme sur 
 !> Une suggestion ne peut contenir que 23 commentaires.
 ### Utilisation
 ```
-.acomment [ID de suggestion] [commentaire]
+.acomment <ID de suggestion> <commentaire>
 ```
-### Aliases
+### Alias
 `anonymouscomment`
-### Permission Required
-Toutes les personnes ayant la permission Gérer le serveur, le rôle admin configuré ou le rôle staff configuré.
+### Permission Requise
+Toutes les personnes ayant la permission **Gérer le serveur**, le rôle admin configuré ou le rôle staff configuré.
 
 
