@@ -1,7 +1,7 @@
 # Ping
 ---
 ### Description
-Cette commande sert à afficher le temps de réponse du bot.
+Affiche la latence, le shard, ainsi que quelques informations supplémentaires sur le bot
 ### Utilisation
 ```
 .ping
@@ -9,4 +9,4 @@ Cette commande sert à afficher le temps de réponse du bot.
 ### Aliases
 `hi`, `bot`, `about`
 ### Permission Requise
-N'importe qui peut utiliser cette commande, sauf si l'utilisateur est blacklisté sur le serveur ou globalement.
+Tout le monde peut utiliser cette commande
