@@ -1,16 +1,16 @@
 # Massdeny
 ---
 ### Description
-Cette commande permet de refuser plusieurs suggestions en même temps.
+Refuse plusieurs suggestions à la fois
 ### Argument Requis
-`IDs de suggestions` - Les idées des suggestions que vous souhaitez refuser.
-### Arguments Facultatifs
-`raison` - La raison du refus des suggestions.
+`IDs de suggestion` - Les ID des suggestions que vous souhaitez refuser
+### Argument Facultatif
+`raison` - La raison du refus des suggestions
 
-?> Vous devez séparer les IDs de suggestions et la raison avec `-r`
+?> Vous devez séparer les IDs de suggestion et la raison avec `-r`
 ### Utilisation
 ```
-.massdeny [IDs de suggestions] (raison)
+.massdeny <IDs de suggestion> [-r <raison>]
 ```
 ### Aliases
 `mdeny`, `multideny`
