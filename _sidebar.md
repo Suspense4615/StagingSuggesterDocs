@@ -53,4 +53,5 @@
 **AUTRES RESSOURCES**
 [Liens Utiles](fr/usefullinks.md)
 [Statistiques](fr/botstats.md)
-[Traductions](NAME_OF_LANG/translation.md)
+[Traductions](fr/translation.md)
+[Légal](fr/legal.md)
