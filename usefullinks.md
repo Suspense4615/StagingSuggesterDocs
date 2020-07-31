@@ -8,24 +8,25 @@ Quelques liens utiles liés au bot
 
 # Invitation
 ---
-### Vous pouvez utiliser [ce lien](https://discord.com/oauth2/authorize?client_id=564426594144354315&scope=bot&permissions=805694544) pour ajouter le bot!
+### Vous pouvez utiliser [ce lien](https://discord.com/oauth2/authorize?client_id=564426594144354315&scope=bot&permissions=805694544) pour ajouter le bot sur votre serveur!
 
-#### **Serveur de Support**
 
-# Invitation du Serveur de Support
+# Serveur de Support
 ---
-### [Cliquez ici](https://discord.gg/G5pEdUp) pour rejoindre le serveur de support où vous pourrez obtenir de l'aide et être notifié des futures mises à jour!
+### Cliquez [ici](https://discord.gg/G5pEdUp) pour rejoindre le serveur de support où vous pourrez obtenir de l'aide, être notifié des futures mises à jour et contribuer au développement de Suggester!
 
 #### **Twitter**
 
 # Twitter
 ---
-### Nous avons également un compte [Twitter](https://twitter.com/SuggesterBot)! Nous y annoncerons les mises à jour, les maintenances et feront des sondages!
+### Nous avons également un compte [Twitter](https://twitter.com/SuggesterBot) où nous annonçons les mises à jour, les maintenances et faisons des sondages
 
 #### **Github**
 
 # Github
 ---
-### [Cliquez ici](https://github.com/Suggester-Bot/Suggester) pour voir l'envers du décor de notre bot entièrement open source! Si vous souhaitez y contribuer, jetez un œil au channel de suggestions dans le [serveur de support](https://discord.gg/G5pEdUp) et discutez avec les développeurs, ou créez une pull request ([Qu'est ce que c'est?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests))!
+### Cliquez [ici](https://github.com/Suggester-Bot/Suggester) pour voir l'envers du décor de notre bot (entièrement open source!). Si vous souhaitez y contribuer, rejoignez le [serveur de support](https://discord.gg/G5pEdUp) et discutez avec les développeurs, créez une pull request* ou rejoignez nos programmes communautaires! 
+
+**\*** Plus d'informations sur [ce site](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github/2433731-contribuez-a-des-projets-open-source).
 
 <!-- tabs:end -->
