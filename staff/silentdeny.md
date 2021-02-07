@@ -1,14 +1,19 @@
-# Silentdeny
+# Command: silentdeny
 ---
 ### Description
-This command is used to deny a suggestion without sending it to the denied suggestion channel or DMing the suggesting user.
-### Required Arguments
-`suggestionId` - The ID of the suggestion.
-### Optional Arguments
-`reason` - The reason for denying the suggestion.
+Use this command to deny a suggestion without posting it to the denied suggestion channel nor notifying the author in DMs
+
+?> This command is only available when the mode is set to **review**
+
 ### Usage
-```
-.silentdeny <suggestionId> [reason]
-```
-### Permission Required
-The user must have **Manage Server** or a configured staff role.
+Use `.silentdeny [suggestion ID] (reason)` in any channel the bot can read & send messages in
+
+### Arguments
+`suggestion ID`: The ID of the suggestion you'd like to silent deny
+`reason`: The reason you're silent denying this suggestion (optional)
+
+### Aliases
+`silentrefuse`, `silentreject` and `silentno`
+
+### User Permission
+To execute this command, the user must have the **Manage Server** permission or a configured [staff](/config/staffroles.md) role
